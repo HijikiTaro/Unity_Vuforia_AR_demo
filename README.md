@@ -15,7 +15,7 @@
 - [参考](#%e5%8f%82%e8%80%83)
 
 # 注意
-このReadmeは下記参考をほぼそのまま引用している。
+このreadmeは下記参考をほぼそのまま引用している。
 
 # 開発環境
 - Window Home 10
@@ -25,55 +25,55 @@
 # 手順
 ## 事前準備：ARマーカー用に画像を準備
 なんでもよいのでとりあえず、GANの時のようにスライムの画像を準備してみた。
-![image](./Readme/demo_image.jpg)
+![image](./readme/demo_image.jpg)
 ## Vuforia：ユーザ登録
 [Vuforia](https://developer.vuforia.com/)
 ## Vuforia：マーカー登録とライセンスキー作成
 Target Managerにマーカーとしたい画像を登録する
-![image](./Readme/image/1.PNG)
-![image](./Readme/image/2.PNG)
-![image](./Readme/image/3.PNG)
-![image](./Readme/image/4.PNG)
-![image](./Readme/image/5.PNG)
+![image](./readme/image/1.PNG)
+![image](./readme/image/2.PNG)
+![image](./readme/image/3.PNG)
+![image](./readme/image/4.PNG)
+![image](./readme/image/5.PNG)
 ※Ratingの☆が高いほどよいらしい
-![image](./Readme/image/6.PNG)
-![image](./Readme/image/7.PNG)
+![image](./readme/image/6.PNG)
+![image](./readme/image/7.PNG)
 ダウンロードしたパッケージは「demo1.unitypackage」
-![image](./Readme/image/8.PNG)
-![image](./Readme/image/9.PNG)
-![image](./Readme/image/10.PNG)
+![image](./readme/image/8.PNG)
+![image](./readme/image/9.PNG)
+![image](./readme/image/10.PNG)
 ## Unity：ダウンロードしたパッケージをインポート
-![image](./Readme/image/11.PNG)
-![image](./Readme/image/12.PNG)
-![image](./Readme/image/13.PNG)
+![image](./readme/image/11.PNG)
+![image](./readme/image/12.PNG)
+![image](./readme/image/13.PNG)
 ## Unity：Vuforiaを有効
-![image](./Readme/image/14.PNG)
-![image](./Readme/image/15.PNG)
+![image](./readme/image/14.PNG)
+![image](./readme/image/15.PNG)
 VuforiaライブラリをUnnityにインストール
-![image](./Readme/image/16.PNG)
-![image](./Readme/image/17.PNG)
-![image](./Readme/image/18.PNG)
-![image](./Readme/image/19.PNG)
-![image](./Readme/image/20.PNG)
-![image](./Readme/image/21.PNG)
-![image](./Readme/image/22.PNG)
+![image](./readme/image/16.PNG)
+![image](./readme/image/17.PNG)
+![image](./readme/image/18.PNG)
+![image](./readme/image/19.PNG)
+![image](./readme/image/20.PNG)
+![image](./readme/image/21.PNG)
+![image](./readme/image/22.PNG)
 Vuforiaライブラリをチェック
-![image](./Readme/image/23.PNG)
+![image](./readme/image/23.PNG)
 ## Unity：メインカメラを削除
 ## Unity：ARカメラ追加しライセンスキー登録
-![image](./Readme/image/24.PNG)
-![image](./Readme/image/25.PNG)
-![image](./Readme/image/26.PNG)
-![image](./Readme/image/27.PNG)
+![image](./readme/image/24.PNG)
+![image](./readme/image/25.PNG)
+![image](./readme/image/26.PNG)
+![image](./readme/image/27.PNG)
 ## オブジェクトを作ろう
-![image](./Readme/image/28.PNG)
-![image](./Readme/image/29.PNG)
+![image](./readme/image/28.PNG)
+![image](./readme/image/29.PNG)
 ## ARで表示する3Dオブジェクトを追加
-![image](./Readme/image/30.PNG)
-![image](./Readme/image/31.PNG)
+![image](./readme/image/30.PNG)
+![image](./readme/image/31.PNG)
 ## 動作テストを実施
-![image](./Readme/image/32.PNG)
-![image](./Readme/image/33.PNG)
+![image](./readme/image/32.PNG)
+![image](./readme/image/33.PNG)
 
 # 参考
 - [Vuforia](https://developer.vuforia.com/)
